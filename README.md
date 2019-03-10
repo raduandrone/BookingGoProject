@@ -57,7 +57,13 @@ Extra argument to specify number of passangers.
 
 Replace **[passangers]** with number of passangers.
 
-## Part 2
+## Part 2 
+
+Start API through IDE (developed on Eclipse Oxygen).
+
+Create Maven Run configuration (Run->Run Configurations...->New_configuration) with base directory ${project_loc:bookingGoTest} and goals clean install.
+
+Run Part2.java.
 
 ### Sample request
 ```
